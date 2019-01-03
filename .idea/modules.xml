@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kafkatest.iml" filepath="$PROJECT_DIR$/.idea/modules/Kafkatest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kafkatest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kafkatest_main.iml" group="Kafkatest" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kafkatest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kafkatest_test.iml" group="Kafkatest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.test.iml" />
     </modules>
   </component>
 </project>

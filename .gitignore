@@ -1,5 +1,33 @@
-out/
-build/
-.idea/
-gradle/
 .gradle/
+/build/
+!gradle/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+gradle/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+.gradle/4.10.2/fileHashes/fileHashes.bin
+.gradle/4.10.2/fileHashes/fileHashes.lock
+.gradle/4.10.2/fileHashes/fileHashes.bin
