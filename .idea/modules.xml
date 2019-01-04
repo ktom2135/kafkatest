@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kafkatest.iml" filepath="$PROJECT_DIR$/Kafkatest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.kafkaDemo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkaDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkaDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkaDemo_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafkaDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafkaDemo_test.iml" />
     </modules>
   </component>
 </project>
